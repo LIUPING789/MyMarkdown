@@ -109,7 +109,7 @@ Markdown语法分为如下几大部分：
 
 ##### 4.1 标题 
 两种形式
-1）使用 <font color="red">**=**</font> 和 <font color ="red">**-**</font> 标记 <font color="red">一级</font> 和<font color = "red">二级</font> 标题。 
+1）使用 `**=**` 和 `**-**` 标记 `一级` 和`二级` 标题。 
 
 <font color ="red">示例md代码:</font>
 
