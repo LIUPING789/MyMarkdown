@@ -78,6 +78,7 @@ Markdwon 是一种轻量级<font color="red"> **标记语言** </font>，它以�
 
 #### 四、Markdown怎么使用？
 <font color="red">如果不算扩展，Markdown的语法绝对简单到让你爱不释手！</font>
+
 Markdown语法分为如下几大部分：
 
 ▸ **标题**
