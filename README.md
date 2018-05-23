@@ -288,6 +288,7 @@ _____
 ```
 
 <font color ="red">示例效果:</font>
+
 ![](https://ws2.sinaimg.cn/large/006tKfTcgy1frl9fj4qv0j30il0333yb.jpg)
 
 
@@ -299,6 +300,7 @@ _____
 自动生成连接  <http://www.github.com/>
 ```
 <font color ="red">示例效果:</font>
+
 ![](https://ws3.sinaimg.cn/large/006tKfTcgy1frl9g6y89mj30j0038743.jpg)
 
 **注意：**上述的[1]:http://github.com不出现在区块中。
@@ -325,8 +327,6 @@ _____
 
 `Ctrl+A` 、`Ctrl+C`、`Ctrl+V`
 
-<br>
-
 ##### 4.12 表格 
 
  <font color ="red">示例md代码:</font>
@@ -344,7 +344,6 @@ _____
 
 ![](https://ws2.sinaimg.cn/large/006tKfTcgy1frl9h2mcx9j30fo064weq.jpg)
 
-<br>
 
 ##### 4.12 流程图
 
