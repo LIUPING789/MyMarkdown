@@ -120,6 +120,10 @@ Markdown语法分为如下几大部分：
 -
 ```
 
+示例效果：
+
+![](https://ws1.sinaimg.cn/large/006tKfTcgy1frl8xwwftpj30ap02u742.jpg)
+
 2）使用 <font color ="red">**#**</font>,可以表示 <font color="red">**1-6级**</font> 标题。
   
  <font color ="red">示例md代码:</font>
@@ -132,6 +136,8 @@ Markdown语法分为如下几大部分：
 ##### 第五级标题 `<h5>` 
 ###### 第六级标题 `<h6>` 
 ```
+示例效果：
+
 ![](https://ws3.sinaimg.cn/large/006tKfTcgy1frl8037731j30d705y0sk.jpg)
 
 ##### 4.2 段落
@@ -141,3 +147,57 @@ Markdown语法分为如下几大部分：
 在段落的每行或者只在第一行使用符号 <font color="red">**>**</font> ,还可使用多个嵌套引用，如：
 
  <font color ="red">示例md代码:</font>
+ 
+ ``` 
+> 区块引用
+> > 嵌套引用
+> > >三嵌套引用
+> > > > 四嵌套引用
+```
+示例效果：
+
+![](https://ws3.sinaimg.cn/large/006tKfTcgy1frl905dyryj30ax054glf.jpg)
+
+#####4.4代码区块
+代码区块的建立是在每行加上4个空格或者一个制表符（如同写代码一样）。如普通段落：
+
+ <font color ="red">示例md代码:</font>
+ 
+ ```
+ fun main(args: Array<String>) {
+    println("Hello World!")
+
+    println("sum = ${sum(34, 67)}")
+    println("sum = ${sum(34, 67)}")
+    println("sum = ${sum(34, 6, 57, 34)}")
+
+    printSum(237, 57)
+    printSum(234, 567, 8)
+    vars(1, 4, 6, 78, 0, 6, 9, 8)
+
+
+    val sumLambda: (Int, Int) -> Int = { x, y -> x + y }
+    println("sumLambda = ${sumLambda(3, 6)}")
+
+
+//    if (args.size < 2) {
+//        println("Two integers expected")
+//        return
+//    }
+    testFor()
+
+
+    val a: Int = 1000
+    println(a === a)//true 值相等，对象地址相等
+
+    //经过了装箱，创建了两个不同的对象
+    val boxedA: Int? = a
+    val anotherBoxedA: Int? = a
+
+    //虽然经过了装箱，但是值是相等的，都是10000
+    println(boxedA === anotherBoxedA) //  false，值相等，对象地址不一样
+    println(boxedA == anotherBoxedA) // true，值相等
+}
+ ```
+ 
+ 
