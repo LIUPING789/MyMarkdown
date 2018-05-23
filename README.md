@@ -53,3 +53,14 @@
 Markdwon 是一种轻量级<font color="red"> **标记语言** </font>，它以纯文本形式（易读、易写、易更改）编写文档，并最终以HTLM格式发布。Markdown也可以理解为将以 MARKDOWN语法编写的语言转换成HTML内容的工具。
 
 #### 二、Markdown是谁创造的？
+
+它是由 [**Aaron Swartz**](www.aaronsw.com/) 和 [**John Gruber**](https://baike.baidu.com/item/John Gruber/18550453?fr=aladdin) 共同设计， Aaron Swartz 就是那位（2013年1月11日）自杀，有着开挂一般人生经历的程序员。 维基百科对他的[**介绍**](https://zh.wikipedia.org/wiki/亚伦·斯沃茨)是：**软件工程师**、**作家**、**政治组织者**、**互联网活动家**、**维基百科人**。
+
+他有着足以让你跪拜的人生经历。
+
+-   **14岁**参与RSS 1.0规格标准制订。
+-   **2004年**入读斯坦福大学，之后退学。
+-   **2005年**创建 [Infogami](http://www.infogami.org/),之后与[Reddit](https://www.reddit.com/)合并成为其合伙人。
+-   **2010年**创立示进会（Demand Preogress）,积极参与禁止网络盗版法案（SOPA）活动，最终该提案被撤回。
+-   **2011年7月19日**,因被控从MIT和JSTOR下载480万篇学术论文并以免费形式上传于网络被捕。
+-   **2013年1月**自杀身亡。
