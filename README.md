@@ -219,7 +219,7 @@ Markdown语法分为如下几大部分：
  ![](https://ws4.sinaimg.cn/large/006tKfTcgy1frl99i5iejj30d7024741.jpg)
  
  
-#####4.6 列表 （有序，无序）
+##### 4.6 列表 （有序，无序）
 使用 <font color="red">**.** </font>、<font color="red">**+**</font>、或<font color="red"> **-** </font> 标记无序列表，如：
 
  <font color ="red">示例md代码:</font>
@@ -255,7 +255,7 @@ Markdown语法分为如下几大部分：
 <font color ="red">示例效果:</font>
 
 ![](https://ws3.sinaimg.cn/large/006tKfTcgy1frl9e3xru4j30d702udfm.jpg)
-    #####4.7 分割线 
+    ##### 4.7 分割线 
 分割线最常使用就是三个或以上的 <font color="red"> `*` </font> ，<font color="red"> `====== `</font>还可以使用 <font color="red"> `- `</font>和 <font color="red">`_ `</font>。
 
 
@@ -274,7 +274,7 @@ _____
 
 
 
-#####4.8链接
+##### 4.8链接
 链接可以由两种形式生成，<font color="red">**行内式**</font> 和 <font color="red">**参考式**</font>。
 
 **行内式：**
@@ -303,7 +303,7 @@ _____
 **注意：**上述的[1]:http://github.com不出现在区块中。
 
 
-#####4.9 图片
+##### 4.9 图片
 添加图片形式和链接相似，只需要在链接的基础上前方加一个 <font color="red"> **！**</font>号。
 
  <font color ="red">示例md代码:</font>
@@ -315,16 +315,18 @@ _____
 ![GitHub set up](http://zh.mweb.im/asset/img/set-up-git.gif)
 
 ##### 4.10 反斜杠  '\'
+
 相当于<font color="red">**反转义**</font>作用。使符号成为普通符号。
 
 #####4.11 符号 ``
+
 起到标记作用，如标签：
 
 `Ctrl+A` 、`Ctrl+C`、`Ctrl+V`
 
 <br>
 
-#####4.12 表格 
+##### 4.12 表格 
 
  <font color ="red">示例md代码:</font>
      
@@ -338,12 +340,12 @@ _____
 ```
 
 <font color ="red">示例效果:</font>
-![](https://ws2.sinaimg.cn/large/006tKfTcgy1frl9h2mcx9j30fo064weq.jpg)
 
+![](https://ws2.sinaimg.cn/large/006tKfTcgy1frl9h2mcx9j30fo064weq.jpg)
 
 <br>
 
-#####4.12 流程图
+##### 4.12 流程图
 
 ##### 示例
 
@@ -362,7 +364,7 @@ cond(no)->sub->io
 
 ##### 更多语法参考：[流程图语法参考](http://adrai.github.io/flowchart.js/)
 
-####五、Markdown都哪些人在用？
+#### 五、Markdown都哪些人在用？
 Markdown 的使用作者：
 
 - Github
@@ -374,7 +376,7 @@ Markdown 的使用作者：
 - CSDN
 - 等等
 
-####六、尝试一下Markdown的使用！
+#### 六、尝试一下Markdown的使用！
 
 + Chrome下的插件诸如stackedit与markdown-here等非常方便，也不用担心平台受限。
 + 在线的dillinger.io评价也不错
