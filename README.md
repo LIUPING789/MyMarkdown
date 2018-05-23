@@ -158,7 +158,7 @@ Markdown语法分为如下几大部分：
 
 ![](https://ws3.sinaimg.cn/large/006tKfTcgy1frl905dyryj30ax054glf.jpg)
 
-#####4.4代码区块
+##### 4.4代码区块
 代码区块的建立是在每行加上4个空格或者一个制表符（如同写代码一样）。如普通段落：
 
  <font color ="red">示例md代码:</font>
@@ -200,4 +200,179 @@ Markdown语法分为如下几大部分：
 }
  ```
  
+ <font color="red"> 示例效果：</font> 
  
+ ![](https://ws2.sinaimg.cn/large/006tKfTcgy1frl98o1o2jj30es0653yk.jpg)
+ 
+ **注意⚠️：需要和普通段落之间存在空行！**
+ #####4.5 强调
+在强调内容两侧分别加上 <font color="red"><b>*</b></font> 或者 <font color="red"><b> - </b></font>,如：
+
+ <font color ="red">示例md代码:</font>
+ 
+ ```
+ *斜体* ，_斜体_
+ **加粗**，__粗体__
+ ```
+  <font color ="red">示例效果</font>
+
+ ![](https://ws4.sinaimg.cn/large/006tKfTcgy1frl99i5iejj30d7024741.jpg)
+ 
+ 
+#####4.6 列表 （有序，无序）
+使用 <font color="red">**.** </font>、<font color="red">**+**</font>、或<font color="red"> **-** </font> 标记无序列表，如：
+
+ <font color ="red">示例md代码:</font>
+ 
+    
+    
+    -   第一项
+    +   第二项
+    -   第三项
+    +   第四项
+    -   第五项
+    +   第六项
+    
+    <font color="red">示例效果:</font> 
+    
+    #####4.7 分割线 
+分割线最常使用就是三个或以上的 <font color="red"> `*` </font> ，<font color="red"> `====== `</font>还可以使用 <font color="red"> `- `</font>和 <font color="red">`_ `</font>。
+
+
+ <font color ="red">示例md代码:</font>
+ 
+``` 
+***
+---
+_____ 
+======
+```
+
+<font color ="red">示例效果:</font>
+
+![](media/15269527485461/15269723447956.jpg)
+
+
+
+#####4.8链接
+链接可以由两种形式生成，<font color="red">**行内式**</font> 和 <font color="red">**参考式**</font>。
+
+**行内式：**
+
+ <font color ="red">示例md代码:</font>
+ 
+```
+[GitHub](http://github.com)
+自动生成连接  <http://www.github.com/>
+```
+
+<font color ="red">示例效果:</font>
+![](media/15269527485461/15269732553813.jpg)
+
+
+**参考试：**
+
+```
+[GitHub][1]
+[1]:http://github.com
+自动生成连接  <http://www.github.com/>
+```
+<font color ="red">示例效果:</font>
+![](media/15269527485461/15269734287099.jpg)
+
+**注意：**上述的[1]:http://github.com不出现在区块中。
+
+
+#####4.9 图片
+添加图片形式和链接相似，只需要在链接的基础上前方加一个 <font color="red"> **！**</font>号。
+
+ <font color ="red">示例md代码:</font>
+
+```
+![GitHub set up](http://zh.mweb.im/asset/img/set-up-git.gif)
+格式: ![Alt Text](url)
+```
+![GitHub set up](http://zh.mweb.im/asset/img/set-up-git.gif)
+
+##### 4.10 反斜杠  '\'
+相当于<font color="red">**反转义**</font>作用。使符号成为普通符号。
+
+#####4.11 符号 ``
+起到标记作用，如标签：
+
+`Ctrl+A` 、`Ctrl+C`、`Ctrl+V`
+
+<br>
+
+#####4.12 表格 
+
+ <font color ="red">示例md代码:</font>
+     
+```txt
+第一格表头 | 第二格表头
+---------| -------------
+内容单元格 第一列第一格 | 内容单元格第二列第一格
+内容单元格 第一列第二格 多加文字 | 内容单元格第二列第二格
+内容单元格 第一列第三格 多加文字 | 内容单元格第二列第三格
+内容单元格 第一列第四格 多加文字 | 内容单元格第二列第四格
+```
+
+<font color ="red">示例效果:</font>
+![](media/15269527485461/15269744915851.jpg)
+
+
+<br>
+
+#####4.12 流程图
+
+##### 示例
+
+```flow
+st=>start: Start:>https://www.jpjbp.com/
+io=>inputoutput: verification
+op=>operation: Your Operation
+cond=>condition: Yes or No?
+sub=>subroutine: Your Subroutine
+e=>end
+
+st->io->op->cond
+cond(yes)->e
+cond(no)->sub->io
+```
+
+##### 更多语法参考：[流程图语法参考](http://adrai.github.io/flowchart.js/)
+
+####五、Markdown都哪些人在用？
+Markdown 的使用作者：
+
+- Github
+- 简书
+- StackOverFlow
+- Apollo
+- Moodle
+- Reddit
+- CSDN
+- 等等
+
+####六、尝试一下Markdown的使用！
+
++ Chrome下的插件诸如stackedit与markdown-here等非常方便，也不用担心平台受限。
++ 在线的dillinger.io评价也不错
++ Windowns下的MarkdownPad也用过，不过免费版的体验不是很好
++ Mac下的Mou是国人贡献的，口碑很好。
++ Linux下的ReText不错。
+
+
+## TOC
+
+Markdown 语法：
+
+```
+[TOC]
+```
+
+效果如下：
+
+[TOC]
+
+    
