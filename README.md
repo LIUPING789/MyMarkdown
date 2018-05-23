@@ -44,3 +44,7 @@
 6.慢慢，你会发现，总有小「bugs」，如列表内无法内嵌代码段。上网查查，你开始理解 MD 的缩进内嵌机制等高级隐形内容，这样你就 Master 了！
 
 以下是 Mou 下面的效果，多漂亮：
+
+![](https://ws1.sinaimg.cn/large/006tKfTcgy1frl4s74fd9j31ki1iwn44.jpg)
+
+
