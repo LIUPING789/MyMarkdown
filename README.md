@@ -235,6 +235,26 @@ Markdown语法分为如下几大部分：
     
     <font color="red">示例效果:</font> 
     
+   ![](https://ws4.sinaimg.cn/large/006tKfTcgy1frl9eiy5atj30b3054q2r.jpg)
+    
+    **注意：标记后面最少有一个_空格_或_制表符_。若不在引用区块
+中，必须和前方段落之间存在空行。**
+
+
+ <font color ="red">示例md代码:</font>
+ 
+    
+     1. 第一项
+     2. 第二项
+     3. 第三项
+     4. 第四项
+     5. 第五项
+     6. 第六项
+     
+     
+<font color ="red">示例效果:</font>
+
+![](https://ws3.sinaimg.cn/large/006tKfTcgy1frl9e3xru4j30d702udfm.jpg)
     #####4.7 分割线 
 分割线最常使用就是三个或以上的 <font color="red"> `*` </font> ，<font color="red"> `====== `</font>还可以使用 <font color="red"> `- `</font>和 <font color="red">`_ `</font>。
 
@@ -250,7 +270,7 @@ _____
 
 <font color ="red">示例效果:</font>
 
-![](media/15269527485461/15269723447956.jpg)
+![](https://ws1.sinaimg.cn/large/006tKfTcgy1frl9f13tbfj30kp03yt8h.jpg)
 
 
 
@@ -267,7 +287,7 @@ _____
 ```
 
 <font color ="red">示例效果:</font>
-![](media/15269527485461/15269732553813.jpg)
+![](https://ws2.sinaimg.cn/large/006tKfTcgy1frl9fj4qv0j30il0333yb.jpg)
 
 
 **参考试：**
@@ -278,7 +298,7 @@ _____
 自动生成连接  <http://www.github.com/>
 ```
 <font color ="red">示例效果:</font>
-![](media/15269527485461/15269734287099.jpg)
+![](https://ws3.sinaimg.cn/large/006tKfTcgy1frl9g6y89mj30j0038743.jpg)
 
 **注意：**上述的[1]:http://github.com不出现在区块中。
 
@@ -318,7 +338,7 @@ _____
 ```
 
 <font color ="red">示例效果:</font>
-![](media/15269527485461/15269744915851.jpg)
+![](https://ws2.sinaimg.cn/large/006tKfTcgy1frl9h2mcx9j30fo064weq.jpg)
 
 
 <br>
