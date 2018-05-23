@@ -64,3 +64,14 @@ Markdwon 是一种轻量级<font color="red"> **标记语言** </font>，它以�
 -   **2010年**创立示进会（Demand Preogress）,积极参与禁止网络盗版法案（SOPA）活动，最终该提案被撤回。
 -   **2011年7月19日**,因被控从MIT和JSTOR下载480万篇学术论文并以免费形式上传于网络被捕。
 -   **2013年1月**自杀身亡。
+
+![](https://ws2.sinaimg.cn/large/006tKfTcgy1frl7pl8xg0j30b50fhgm1.jpg)
+
+            
+####三、为什么要使用Markdown?
+-   它是易读（看起来舒服😌）、易写（语法简单）、易更改（纯文本）。处处体现着极简主义的影子。
+-   兼容HTML,可以转换为HTML格式发布。
+-   跨平台使用。
+-   越来越多的网站支持Markdown.
+-   更方便清晰的组织你的电子邮件。（Markdown-here,Airmail）。
+-   **摆脱Word,txt！！！**
