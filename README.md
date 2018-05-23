@@ -18,5 +18,10 @@
 5. Markdown 都有哪些人在用？
 6. 尝试一下Markdown的使用！
 7. Markdown 进阶语法！
-
 <br/>
+
+<font color="#3C7E9F">**学习目标**</b></font>
+
+通过学习，能对Markdown语法有个比较全面的认知，对日常工作写作排版尽量放弃Word、txt等文本工具，改直接用Markdown语言写文档。
+
+<font color="#3C7E9F">**学习思路**</font> 
