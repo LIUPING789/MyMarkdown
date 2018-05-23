@@ -255,9 +255,10 @@ Markdown语法分为如下几大部分：
 <font color ="red">示例效果:</font>
 
 ![](https://ws3.sinaimg.cn/large/006tKfTcgy1frl9e3xru4j30d702udfm.jpg)
-    ##### 4.7 分割线 
-分割线最常使用就是三个或以上的 <font color="red"> `*` </font> ，<font color="red"> `====== `</font>还可以使用 <font color="red"> `- `</font>和 <font color="red">`_ `</font>。
 
+##### 4.7 分割线 
+    
+分割线最常使用就是三个或以上的 <font color="red"> `*` </font> ，<font color="red"> `====== `</font>还可以使用 <font color="red"> `- `</font>和 <font color="red">`_ `</font>。
 
  <font color ="red">示例md代码:</font>
  
